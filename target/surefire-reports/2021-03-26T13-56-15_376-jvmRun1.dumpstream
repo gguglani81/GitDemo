@@ -1,0 +1,28 @@
+# Created at 2021-03-26T13:56:43.131
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-03-26T13:57:02.027
+Unexpected IOException with stream: 280.97
+
+# Created at 2021-03-26T13:57:02.068
+Unexpected IOException with stream: 
+
+
+# Created at 2021-03-26T13:57:02.072
+Unexpected IOException with stream:  280.97
+
+
+# Created at 2021-03-26T13:57:02.080
+Unexpected IOException: 6,1,Practice.AppiumFramework.SumValidation,totalValidation(Practice.AppiumFramework.SumValidation),null,null,null
+
+
+# Created at 2021-03-26T13:57:03.707
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

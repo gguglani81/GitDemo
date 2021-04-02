@@ -1,0 +1,37 @@
+# Created at 2021-03-26T14:53:10.204
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:396)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+
+# Created at 2021-03-26T14:53:24.740
+Unexpected IOException with stream: Mar 26, 2021 2:53:24 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+
+
+# Created at 2021-03-26T14:53:25.687
+Unexpected IOException with stream: Clicking the Country
+
+
+# Created at 2021-03-26T14:53:47.707
+Unexpected IOException with stream: 280.97
+
+# Created at 2021-03-26T14:53:47.710
+Unexpected IOException with stream: 
+
+
+# Created at 2021-03-26T14:53:47.713
+Unexpected IOException with stream:  280.97
+
+
+# Created at 2021-03-26T14:53:47.744
+Unexpected IOException: 6,1,Practice.AppiumFramework.SumValidation,totalValidation(Practice.AppiumFramework.SumValidation),null,null,null
+
+
+# Created at 2021-03-26T14:53:49.883
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

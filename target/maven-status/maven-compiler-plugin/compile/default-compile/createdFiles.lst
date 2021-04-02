@@ -1,5 +1,7 @@
-resources\base.class
-resources\ExtentReporterNG.class
-pageObjects\LandingPage.class
-pageObjects\LoginPage.class
-Academy\App.class
+resources\DataProv.class
+pageObjects\PageObjectBase.class
+pageObjects\HomePage.class
+pageObjects\Utilities.class
+Practice\AppiumFramework\EcommBase.class
+pageObjects\checkoutPage.class
+pageObjects\FormPage.class
