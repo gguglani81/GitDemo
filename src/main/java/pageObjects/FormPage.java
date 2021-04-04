@@ -29,6 +29,8 @@ public class FormPage {
 	
 	public WebElement getCountry() {
 		System.out.println("Clicking the Country");
+		System.out.println("BranchDemo");
+		System.out.println("BranchDemo1");
 		
 		return country;
 	}

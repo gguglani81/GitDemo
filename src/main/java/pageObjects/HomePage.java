@@ -13,7 +13,7 @@ public class HomePage {
 
 	public HomePage(AndroidDriver<AndroidElement> driver) {
 		PageFactory.initElements(new AppiumFieldDecorator(driver), this);
-		System.out.println("Test");
+		
 	}
 
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Preference']")
