@@ -29,8 +29,7 @@ public class FormPage {
 	
 	public WebElement getCountry() {
 		System.out.println("Clicking the Country");
-		System.out.println("making the changes");
-		System.out.println("Committing the changes");
+		
 		return country;
 	}
 	
